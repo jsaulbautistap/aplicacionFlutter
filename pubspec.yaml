@@ -57,7 +57,22 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
+    - images/banos.jpeg
+    - images/cajas.jpeg
+    - images/coto.jpeg
+    - images/cuenca.jpeg
+    - images/diablo.jpeg
+    - images/gala.jpeg
+    - images/incas.jpeg
+    - images/malecon.jpeg
+    - images/mindo.jpeg
+    - images/mitadmundo.jpeg
+    - images/motanita.jpeg
+    - images/otavalo.jpeg
+    - images/quilotoa.jpeg
     - images/Quito.jpg
+    - images/salinas.jpeg
+    - images/yasuni.jpeg
 
   # To add assets to your application, add an assets section, like this:
   # assets:
